@@ -253,7 +253,3 @@ def reasoning(question, cluster_chain_of_entities, args):
         return True, response
     else:
         return False, response
-    
-
-
-
